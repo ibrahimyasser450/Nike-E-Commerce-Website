@@ -95,7 +95,7 @@ const highlight = {
   title: "NIKE AIR WITH LIMITLESS CHOICES",
   text: "Our Purpose is to move the world forward. We take action by building community, protecting our planet and increasing access to sport.",
   btn: "Explore More",
-  url: "https://www.nike.com/launch/t/air-max-95-big-bubble-blue-sapphire-and-action-red",
+  url: "https://www.nike.com/launch/t/air-bakin-high-sp-black-and-varsity-red",
   img: hightlightimg,
 };
 
@@ -304,7 +304,7 @@ const story = {
       text: "For the first time in over a decade, a signature basketball silhouette is being made for one of the WNBA’s best and brightest stars, Olympic Gold Medalist and Seattle Storm superstar Breanna Stewart. Puma Stewie 1 Quiet Fire will be available this Friday.",
       img: "https://sneakernews.com/wp-content/uploads/2022/09/puma-stewie-1-quiet-fire-breanna-stewart-release-date-lead.jpg?w=540&h=380&crop=1",
       time: "25 Days",
-      url: "https://sneakernews.com/2022/09/13/nike-zoom-gt-cut-2-officially-unveiled/",
+      url: "https://sneakernews.com/2022/09/12/puma-stewie-1-quiet-fire-breanna-stewart-shoes-release-date/#google_vignette",
       like: "3/5",
       by: "Jared Ebanks",
       btn: "Read More",
